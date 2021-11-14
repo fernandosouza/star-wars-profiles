@@ -5,7 +5,12 @@
     {
       "src": "/vercel.svg",
       "type": "image/svg+xml",
-      "sizes": "283x64"
+      "sizes": "192x64"
+    },
+    {
+      "src": "/vercel-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x293"
     }
   ],
   "start_url": "/?source=pwa",
