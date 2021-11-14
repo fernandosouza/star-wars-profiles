@@ -14,11 +14,11 @@ export default function Home() {
     // })
   };
 
-  useEffect(() => {
-    if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("/service-worker.js");
-    }
-  }, []);
+  // useEffect(() => {
+  //   if ("serviceWorker" in navigator) {
+  //     navigator.serviceWorker.register("/service-worker.js");
+  //   }
+  // }, []);
 
   return (
     <div>
