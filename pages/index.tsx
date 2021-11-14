@@ -25,7 +25,6 @@ export default function Home() {
 
         <section>
           <h1>Sign up</h1>
-          
         </section>
       </main>
 
